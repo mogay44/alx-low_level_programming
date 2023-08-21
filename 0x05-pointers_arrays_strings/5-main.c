@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for Holberton School students.
+ * main - Write a function that reverses a string.
  *
  * Return: Always 0.
  */
